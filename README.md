@@ -1,7 +1,7 @@
 # Woovi Developers Jobs
 
-[Woovi](https://woovi.com/)
-[OpenPix](https://openpix.com.br/)
+- [Woovi](https://woovi.com/)
+- [OpenPix](https://openpix.com.br/)
 
 A Woovi is an instant payment platform for business
 
