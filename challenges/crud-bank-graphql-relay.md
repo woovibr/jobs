@@ -25,7 +25,7 @@ The theme of the challenge is to create a simple replica of a bank in which it i
 - Refund a transaction
 - Calculate the available balance of an account
 
-### Start from where?
+### Where to start?
 - If you are applying to fullstack, you must code the Backend and Frontend.
 - If you are applying to Backend, you must code the backend step and the Backend Plus section.
 - If you are applying to Frontend, you must code the backend step and the Backend Plus section.
