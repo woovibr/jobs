@@ -105,7 +105,7 @@ The deadline for delivery is free. However, the sooner the more chances of the v
 ### Senior
 In addition to CRUD, if you decide to venture into a senior scope you also have the task of designing a subject-based architecture as if we were going to define, plan, design, and implement our next feature core.
 
-- [Woovi Leaky Bucket](How to guarantee a better chance of being hired?)
+- [Woovi Leaky Bucket](https://github.com/woovibr/jobs/blob/main/challenges/woovi-leaky-bucket-challenge.md)
 
 ## OpenSource
 Your repository must be open-sourced
