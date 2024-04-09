@@ -63,20 +63,17 @@ Plus: Use Node and Connection from Relay to handle get collection and lists.
 #### Transaction Model
 - Sender: who is sending the money
 - Receiver: who is receiving the money
-- Idempotency id: id of idempotency to avoid duplicating transaction
+- It must be idempotent
 - Value: in cents or decimal128
-
-#### Refund Model
-- It could be the same transaction model
 
 #### Deploy
 The backend must be deployed where it can be accessible.
 
 #### How to guarantee a better chance of being hired by backend?
 - Expose a GraphQL Playground
-- Generate a postman json to be able import and make calls to the Backend GraphQL Api
-- It uses graphql-http
-- It has test with Jest or a Test Runner of choice
+- Generate a postman JSON to be able to import and make calls to the Backend GraphQL API
+- It uses graphql-HTTP
+- It has a test with Jest or a Test Runner of choice
 
 ### Frontend
 - It must have a page to log in or register it.
@@ -90,12 +87,12 @@ The backend must be deployed where it can be accessible.
 #### Deploy
 The front end must be deployed where it can be accessible in production to be reviewed by our team.
 
-#### How to guarantee a better chance of being hired by frontend?
+#### How to guarantee a better chance of being hired by front end?
 - Use Shadcn
 - Use vite with React Router latest version
 - Create a storybook of your UI components
 - Create a dash such as a real bank
-- It has tests with Jest or a Test Runner of choice
+- It has tested with Jest or a Test Runner of choice
 
 ### Deadline
 The deadline for delivery is free. However, the sooner the more chances of the vacancy being yours.
