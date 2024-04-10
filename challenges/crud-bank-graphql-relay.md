@@ -22,7 +22,6 @@ The theme of the challenge is to create a simple replica of a bank in which it i
 - Login
 - Send a transaction
 - Receive a transaction
-- Refund a transaction
 - Calculate the available balance of an account
 
 ### Where to start?
