@@ -27,7 +27,7 @@ The theme of the challenge is to create a simple replica of a bank in which it i
 ### Where to start?
 - If you are applying to fullstack, you must code the Backend and Frontend.
 - If you are applying to Backend, you must code the backend step and the Backend Plus section.
-- If you are applying to Frontend, you must code the backend step and the Backend Plus section.
+- If you are applying to Frontend, you must code the backend step and the Frontend Plus section.
 
 #### Backend
 The backend must be a GraphQL API that handles all the required items above.
