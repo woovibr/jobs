@@ -34,19 +34,10 @@ Stack: NodeJs, KoaJs, MongoDB, GraphQL
 
 Plus (optional): Use Node and Connection from Relay to handle get collection and lists.
 
-#### Account Model
-- unique ID to be used as idempotency id.
-- account number.
-- it must have a tax ID (CPF/CNPJ) owner of account.
-- it must be able to have one account per taxID.
-- it must not be able to duplicate accounts.
-- it must have the calculation of balance using a ledger strategy based on transactions successfully made.
-
-#### Transaction Model
-- Sender: who is sending the money
-- Receiver: who is receiving the money
-- It must be idempotent, keep on mind that transactions can fail it!
-- Value: in cents or decimal128
+#### Collections
+It must be able to transact between two accounts. 
+- Account
+- Transaction
 
 #### Deploy
 The backend must be deployed where it can be accessible.
