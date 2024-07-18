@@ -8,6 +8,7 @@ A Woovi is an instant payment platform for business
 ## Code Challenge
 
 - [ ] build a simple GraphQL + Relay CRUD
+- [ ] write it down your decision making process and trade-offs
 
 deliverables: github repo
 
