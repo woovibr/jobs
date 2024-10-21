@@ -12,6 +12,15 @@ A Woovi is an instant payment platform for business
 
 deliverables: github repo
 
+## Reviewers
+
+share github with: 
+
+sibelius
+daniloab
+Eckzzo
+caiocampoos
+
 # References
 
 - [Woovi Playground](https://github.com/woovibr/woovi-playground) - production Woovi code sample
