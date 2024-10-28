@@ -10,6 +10,9 @@ Our challenge is a replica of our day-to-day. The same consists of building a CR
 
 In addition to technology, the challenge takes you to immersion in a work routine at a startup. When talking about startup, understand that we are one because we are building something new and without definitions previously defined by other people. So our routine is to code reasonably well. But more than that, unlocking the business and making the best decision to deliver what the customer needs.
 
+## Challenge Boilerplate
+Start the challenge with the boilerplate from [Woovi Playground](https://github.com/woovibr/woovi-playground)
+
 ### Challenge Stack
 ### [Stack](https://dev.to/woovi/woovi-stack-5fom) - https://dev.to/woovi/woovi-stack-5fom
 - Backend: MongoDB, NodeJS, Koajs, GraphQL
