@@ -52,7 +52,7 @@ The backend must be deployed where it can be accessible.
 - It has a test with Jest or a Test Runner of choice
 
 ### Frontend
-- It must be able to create an account in an easier way, could have default accounts
+- It must be able to create an account more easily, could have default accounts
 - It must have an action button to transfer money between accounts
 - It must use Shadcn
 - It must use Vite with React Router
@@ -66,14 +66,14 @@ The front end must be deployed where it can be accessible in production to be re
 - Use vite with React Router latest version
 - Create a storybook of your UI components
 - Create a dash such as a real bank
-- It has tested with Jest or a Test Runner of choice
+- It has been tested with Jest or a Test Runner of choice
 
 ### Deadline
 The deadline for delivery is free. However, the sooner the more chances of the vacancy being yours.
 
 ### Doubts and Help
-- Doubts can be taken directly on the Sibelius Discord channel. Doubts are free and can be taken 24/7. We want to see what your communication skills are like and how to unlock yourself.
-- Ask the invite to sibelius@woovi.com or danilo@woovi.com
+- Doubts can be taken directly on the Sibelius Discord channel. Doubts are free and can be taken 24/7. We want to see your communication skills and how to unlock yourself.
+- Ask the invite to sibelius@woovi.com
 - Check challenge references here to help you -> [Awesome Woovi Challenge](https://github.com/entria/awesome-woovi-challenge)
 
 ### Senior
@@ -85,4 +85,4 @@ In addition to CRUD, if you decide to venture into a senior scope you also have 
 Your repository must be open-sourced
 
 #### Finishing the challenge
-After finishing the challenge, push the GitHub repo, then sent an email to danilo@woovi.com or call on dm twitter to set up a call [https://twitter.com/daniloab_](https://twitter.com/daniloab_)
+After finishing the challenge, push the GitHub repo, then send an email to sibelius@woovi.com or call on dm X to set up a call [https://x.com/sseraphini](https://x.com/sseraphini)
