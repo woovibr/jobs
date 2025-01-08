@@ -17,9 +17,6 @@ deliverables: github repo
 share github with: 
 
 sibelius
-daniloab
-Eckzzo
-caiocampoos
 
 # References
 
