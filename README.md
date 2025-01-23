@@ -29,6 +29,10 @@ You can code one of these code challenges
 - [ ] volume VI - https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Catalogos/Catalogo_de_Servicos_do_SFN_Volume_VI_Versao_509.pdf
 - [ ] minimal requirement is to implement pacs
 
+## Mini n8n/zapier
+- [ ] Use [React Flow](https://reactflow.dev/) to create a mini n8n embeded using React
+- [ ] it should have at least 2 nodes: API and Webhook
+
 deliverables: github repo, excalidraw, markdown
 
 ## Reviewers
