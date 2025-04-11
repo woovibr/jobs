@@ -22,7 +22,7 @@ You can code one of these code challenges
 ### Dict Simulator
 - [ ] create the [DICT API](https://developers.openpix.com.br/dict) using node and mongodb
 
-### SPI Simulator
+### ICOM/SPI Simulator
 - [ ] create the spi message system using iso20022 messages
 - [ ] read more about it here https://www.bcb.gov.br/estabilidadefinanceira/comunicacaodados
 - [ ] iso20022 definition https://www.iso20022.org/iso-20022-message-definitions
@@ -32,6 +32,16 @@ You can code one of these code challenges
 ## Mini n8n/zapier
 - [ ] Use [React Flow](https://reactflow.dev/) to create a mini n8n embeded using React
 - [ ] it should have at least 2 nodes: API and Webhook
+
+## OpenFinance Simulator
+
+- [ ] simulate OpenFinance APIs, implement like you are a fintech
+- [ ] initial repo https://github.com/woovibr/openfinance-simulator
+
+## Integrate with NFE-e
+- [ ] simulate or integrate with NF-e system
+- [ ] manual here https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LrBx7WT9PuA=
+- [ ] good starting point https://github.com/eletroswing/a-note/tree/main/docs
 
 deliverables: github repo, excalidraw, markdown
 
