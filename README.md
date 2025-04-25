@@ -45,12 +45,28 @@ You can code one of these code challenges
 
 deliverables: github repo, excalidraw, markdown
 
+## DevOps Proxmox Challenge
+
+- [ ] install proxmox
+- [ ] automate creation of HA k8s cluster using microk8s
+- [ ] automate creation of Redis and MongoDB replicaset cluster
+
+deliverables: github repo, excalidraw, markdown
+
+## CI/CD Challenge
+
+- [ ] install tekton cd
+- [ ] create 2 pipelines: one for staging and one for production
+- [ ] automate creation of github ssh private key and github webhook
+
+deliverables: github repo, excalidraw, markdown
+
 ## Reviewers
 
 share github with: 
 
 sibelius
-
+  
 # References
 
 - [Woovi Playground](https://github.com/woovibr/woovi-playground) - production Woovi code sample
