@@ -73,7 +73,7 @@ deliverables: markdown + excalidraw (your RFC proposal)
 
 - [ ] How would you design Credit on top of Pix?
 - [ ] How would you structure a data lake for Woovi?
-- [ ] How would you design a finaniial monitoring system?
+- [ ] How would you design a financial monitoring system?
 
 ## Reviewers
 
