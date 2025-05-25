@@ -85,3 +85,33 @@ sibelius
 
 - [Woovi Playground](https://github.com/woovibr/woovi-playground) - production Woovi code sample
 - [Relay Workshop](https://github.com/sibelius/relay-workshop) - learn GraphQL + Relay with exercises
+
+## Fintech Problems
+
+If you solved any of this problems, send a message to me
+
+- [ ] KYC
+- [ ] Ledger
+- [ ] Scaling
+- [ ] Reliability
+- [ ] Latency
+- [ ] Security
+- [ ] Data Consistency
+- [ ] Integration with many external systems
+- [ ] Antifraud
+- [ ] Anti-money laundering
+- [ ] Money monitoring
+- [ ] Realtime analysis
+- [ ] Distributed System
+- [ ] Domain Driven Design
+- [ ] Decoupling Systems
+- [ ] Regulation
+- [ ] Report generation
+- [ ] Specificity of each payment method
+- [ ] Complaince
+- [ ] Automation of process
+- [ ] Conciliation
+- [ ] Auditing
+- [ ] Internal Controls
+- [ ] API Contracts
+- [ ] Third parties management
