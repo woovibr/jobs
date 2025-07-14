@@ -43,8 +43,8 @@ You can code one of these code challenges
 - [ ] manual here https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LrBx7WT9PuA=
 - [ ] good starting point https://github.com/eletroswing/a-note/tree/main/docs
 
-you have to generate an NFe in the homologation system
 deliverables: github repo, excalidraw, markdown
+you have to generate an NFe in the homologation system
 
 
 ## DevOps Proxmox Challenge
