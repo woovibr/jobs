@@ -44,7 +44,9 @@ You can code one of these code challenges
 - [ ] good starting point https://github.com/eletroswing/a-note/tree/main/docs
 
 deliverables: github repo, excalidraw, markdown
+
 you have to generate an NFe in the homologation system
+
 
 
 ## DevOps Proxmox Challenge
