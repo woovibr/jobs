@@ -38,16 +38,19 @@ You can code one of these code challenges
 - [ ] simulate OpenFinance APIs, implement like you are a fintech
 - [ ] initial repo https://github.com/woovibr/openfinance-simulator
 
-## Integrate with NFE-e
-- [ ] simulate or integrate with NF-e system
+## Integrate with NFS-e
+
+- [ ] simulate or integrate with NFS-e system
+- NFS-e docs https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/documentacao-em-homologacao
+
+### Extra - integrate with NF-e
+
 - [ ] manual here https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LrBx7WT9PuA=
 - [ ] good starting point https://github.com/eletroswing/a-note/tree/main/docs
 
 deliverables: github repo, excalidraw, markdown
 
 you have to generate an NFe in the homologation system
-
-
 
 ## DevOps Proxmox Challenge
 
