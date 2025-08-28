@@ -15,7 +15,7 @@ You can code one of these code challenges
 - [ ] write it down your decision making process and trade-offs
 - [ ] more info here [crud-bank-graphql-relay.md](https://github.com/woovibr/jobs/blob/main/challenges/crud-bank-graphql-relay.md)
 
-### Leaky Bucket
+### Leaky Bucket (deprecated, we received a lot of these code challenges)
 - [ ] build a simple Leaky Bucket code
 - [ ] more info here [leaky bucket](https://github.com/woovibr/jobs/blob/main/challenges/woovi-leaky-bucket-challenge.md)
 
