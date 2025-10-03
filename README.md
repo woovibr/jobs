@@ -68,6 +68,15 @@ deliverables: github repo, excalidraw, markdown
 
 deliverables: github repo, excalidraw, markdown
 
+----
+
+### Frontend Challenges
+
+## Landing Page + Design System
+- [ ] react, nextjs static
+- [ ] create a simple design system (you can use an existing library)
+- [ ] create a landing page using your design system
+
 -----
 
 ### RFC Challenges
