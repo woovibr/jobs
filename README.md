@@ -84,6 +84,10 @@ deliverables: github repo, excalidraw, markdown
 - [ ] create a simple design system (you can use an existing library)
 - [ ] create a landing page using your design system
 
+## KYC System
+
+- [ ] full description here [kyc-system.md](https://github.com/woovibr/jobs/blob/main/challenges/kyc-verification-system.md)
+
 -----
 
 ### RFC Challenges
