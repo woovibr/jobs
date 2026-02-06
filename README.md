@@ -9,115 +9,38 @@ A Woovi is an instant payment platform for business
 
 You can code one of these code challenges
 
-### GraphQL Relay CRUD Ledger
+### Backend Challenges
 
-- [ ] build a simple GraphQL + Relay CRUD
-- [ ] write it down your decision making process and trade-offs
-- [ ] more info here [crud-bank-graphql-relay.md](https://github.com/woovibr/jobs/blob/main/challenges/crud-bank-graphql-relay.md)
-
-### Leaky Bucket (deprecated, we received a lot of these code challenges)
-- [ ] build a simple Leaky Bucket code
-- [ ] more info here [leaky bucket](https://github.com/woovibr/jobs/blob/main/challenges/woovi-leaky-bucket-challenge.md)
-
-### Dict Simulator
-- [ ] create the [DICT API](https://developers.openpix.com.br/dict) using node and mongodb
-
-### ICOM/SPI Simulator
-- [ ] create the spi message system using iso20022 messages
-- [ ] read more about it here https://www.bcb.gov.br/estabilidadefinanceira/comunicacaodados
-- [ ] iso20022 definition https://www.iso20022.org/iso-20022-message-definitions
-- [ ] volume VI - https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Catalogos/Catalogo_de_Servicos_do_SFN_Volume_VI_Versao_509.pdf
-- [ ] minimal requirement is to implement pacs
-
-### Integrate with ISO 8583 simulator
-- [ ] https://github.com/bassrehab/ISO8583-Simulator
-- [ ] https://neapay.com/free-payments-iso8583-simulator-tools.html
-- [ ] acquire
-- [ ] issuing
-
-## Mini n8n/zapier
-- [ ] Use [React Flow](https://reactflow.dev/) to create a mini n8n embeded using React
-- [ ] it should have at least 2 nodes: API and Webhook
-
-## OpenFinance Simulator
-
-- [ ] simulate OpenFinance APIs, implement like you are a fintech
-- [ ] initial repo https://github.com/woovibr/openfinance-simulator
-
-## Integrate with NFS-e
-
-- [ ] simulate or integrate with NFS-e system
-- NFS-e docs https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/documentacao-em-homologacao
-
-### Extra - integrate with NF-e
-
-- [ ] manual here https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LrBx7WT9PuA=
-- [ ] good starting point https://github.com/eletroswing/a-note/tree/main/docs
-
-deliverables: github repo, excalidraw, markdown
-
-you have to generate an NFe in the homologation system
-
-## Report System
-
-- [ ] Create a report system that can handle many data
-- [ ] use streams to generate files (xlsx, csv, json, pdf)
-- [ ] use streams to generate archives (zip)
-- [ ] use streams to upload to object storage/s3
-- [ ] consume only from hidden replica or secondary replica on mongodb
-- [ ] be able to map reduce to generate reports faster
-
-
-## DevOps Proxmox Challenge
-
-- [ ] install proxmox
-- [ ] automate creation of HA k8s cluster using microk8s
-- [ ] automate creation of ElasticSearch/Redis/MongoDB replicaset cluster
-- [ ] setup grafana stack on k8s
-
-deliverables: github repo, excalidraw, markdown
-
-## CI/CD Challenge
-
-- [ ] install tekton cd
-- [ ] create 2 pipelines: one for staging and one for production
-- [ ] automate creation of github ssh private key and github webhook
-
-deliverables: github repo, excalidraw, markdown
-
-----
+- [GraphQL Relay CRUD Ledger](./challenges/crud-bank-graphql-relay.md)
+- [Leaky Bucket](./challenges/woovi-leaky-bucket-challenge.md) (deprecated, we received a lot of these code challenges)
+- [Dict Simulator](./challenges/dict-simulator.md)
+- [ICOM/SPI Simulator](./challenges/icom-spi-simulator.md)
+- [Integrate with ISO 8583 simulator](./challenges/iso8583-simulator.md)
+- [Mini n8n/zapier](./challenges/mini-n8n-zapier.md)
+- [OpenFinance Simulator](./challenges/openfinance-simulator.md)
+- [Integrate with NFS-e](./challenges/nfse-integration.md)
+- [Report System](./challenges/report-system.md)
 
 ### Frontend Challenges
 
-## Landing Page + Design System
-- [ ] react, nextjs static
-- [ ] create a simple design system (you can use an existing library)
-- [ ] create a landing page using your design system
+- [Landing Page + Design System](./challenges/landing-page-design-system.md)
+- [KYC System](./challenges/kyc-verification-system.md)
 
-## KYC System
+### DevOps Challenges
 
-- [ ] full description here [kyc-system.md](https://github.com/woovibr/jobs/blob/main/challenges/kyc-verification-system.md)
-
------
+- [DevOps Proxmox Challenge](./challenges/devops-proxmox.md)
+- [CI/CD Challenge](./challenges/cicd-challenge.md)
 
 ### RFC Challenges
 
-Read this to understand [https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/)
-
-deliverables: markdown + excalidraw (your RFC proposal)
-
-## RFC Architecture + Database Schema modeling Challenge
-
-- [ ] How would you design Credit on top of Pix?
-- [ ] How would you structure a data lake for Woovi?
-- [ ] How would you design a financial monitoring system?
+- [RFC Architecture + Database Schema modeling Challenge](./challenges/rfc-architecture.md)
 
 ## Reviewers
 
-share github with: 
+share github with:
 
 sibelius
-  
+
 # References
 
 - [Woovi Playground](https://github.com/woovibr/woovi-playground) - production Woovi code sample
