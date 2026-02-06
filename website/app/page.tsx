@@ -16,6 +16,7 @@ import { createSearchIndex } from "@/lib/search";
 const allTags = getAllTags();
 const searchIndex = createSearchIndex(challenges);
 const categoryOrder: Category[] = [
+  "ai",
   "frontend",
   "backend",
   "fintech",

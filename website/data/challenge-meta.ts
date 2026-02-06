@@ -1,4 +1,4 @@
-export type Category = "backend" | "frontend" | "devops" | "fintech" | "architecture";
+export type Category = "backend" | "frontend" | "devops" | "fintech" | "architecture" | "ai";
 
 export interface ChallengeMeta {
   slug: string;
@@ -121,6 +121,38 @@ export const challenges: ChallengeMeta[] = [
     category: "fintech",
     tags: ["api", "fintech", "backend", "integration"],
   },
+  {
+    slug: "mcp-woovi-api",
+    title: "MCP Server for Woovi API",
+    description:
+      "Build a Model Context Protocol (MCP) server that exposes Woovi/OpenPix API capabilities to AI assistants like Claude.",
+    category: "ai",
+    tags: ["ai", "mcp", "api", "typescript", "nodejs", "integration"],
+  },
+  {
+    slug: "rag-woovi-docs",
+    title: "RAG System for Woovi Docs",
+    description:
+      "Build a Retrieval-Augmented Generation system for natural language Q&A over Woovi documentation using vector search and LLMs.",
+    category: "ai",
+    tags: ["ai", "rag", "llm", "python", "vector-database", "search"],
+  },
+  {
+    slug: "whatsapp-ai-agent",
+    title: "WhatsApp AI Agent for Woovi",
+    description:
+      "Create an intelligent WhatsApp AI agent that connects to Woovi accounts for balance checks, statements, Pix transfers, and business indicators.",
+    category: "ai",
+    tags: ["ai", "whatsapp", "agent", "nodejs", "api", "pix", "fintech"],
+  },
+  {
+    slug: "antifraud-system",
+    title: "Real-Time Antifraud System",
+    description:
+      "Build a real-time antifraud system for Pix transactions using Kafka, ClickHouse, and Apache Flink for stream processing and fraud detection.",
+    category: "ai",
+    tags: ["kafka", "clickhouse", "flink", "streaming", "fintech", "pix", "data-engineering"],
+  },
 ];
 
 export const categoryLabels: Record<Category, string> = {
@@ -129,6 +161,7 @@ export const categoryLabels: Record<Category, string> = {
   devops: "DevOps",
   fintech: "Fintech",
   architecture: "Architecture",
+  ai: "AI & Data Engineering",
 };
 
 export function getAllTags(): string[] {
