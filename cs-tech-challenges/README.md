@@ -1,6 +1,6 @@
 # Technical Customer Support Challenge - Woovi / OpenPix
 
-10 fictional customer support tickets, drawn from real patterns we see at Woovi (webhooks, conciliação, refunds, MED, DICT, subcontas, 2FA, BaaS).
+11 fictional customer support tickets, drawn from real patterns we see at Woovi (webhooks, conciliação, refunds, MED, DICT, subcontas, 2FA, BaaS, API integration).
 
 Pick up each ticket as if it had just landed in your inbox. For each one, write your response covering:
 
@@ -24,9 +24,8 @@ We care more about **how you investigate and communicate** than whether you happ
 8. [`correlationID` é ignorado em `/subaccount/{id}/credit` e `/debit`](./08-correlationid-credit-debit.md)
 9. [Cliente perdeu acesso ao 2FA / autenticador](./09-cliente-perdeu-2fa.md)
 10. [BaaS: saldo travado em subcontas, operação parada](./10-baas-saldo-travado-subcontas.md)
+11. [`/charge` retorna sucesso mas o split não foi aplicado como esperado](./11-charge-request-invalido.md)
 
 ## Submission
 
 Send your responses (Markdown, one file per ticket or one consolidated file) to **sibelius@woovi.com** with subject `CS Tech Challenge - <your name>`.
-
-You can use any AI tool you want. Tell us which ones and what you asked — tool literacy is part of the job.
