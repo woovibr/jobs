@@ -28,4 +28,4 @@ We care more about **how you investigate and communicate** than whether you happ
 
 ## Submission
 
-Send your responses (Markdown, one file per ticket or one consolidated file) to **sibelius@woovi.com** with subject `CS Tech Challenge - <your name>`.
+Send your responses (Markdown, one file per ticket or one consolidated file) to **gabriel@woovi.com** with subject `CS Tech Challenge - <your name>`.
