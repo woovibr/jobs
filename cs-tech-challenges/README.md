@@ -26,6 +26,12 @@ We care more about **how you investigate and communicate** than whether you happ
 10. [BaaS: saldo travado em subcontas, operação parada](./10-baas-saldo-travado-subcontas.md)
 11. [`/charge` retorna sucesso mas o split não foi aplicado como esperado](./11-charge-request-invalido.md)
 
+## Sandbox Practical Exercises
+
+The tickets above are written analysis. [This section](./12-sandbox-practical-exercises.md)
+tests the same API/webhook knowledge hands-on, against a real sandbox account — creating
+charges, handling webhook retries and idempotency, and reading real error responses.
+
 ## Submission
 
 Send your responses (Markdown, one file per ticket or one consolidated file) to **gabriel@woovi.com** with subject `CS Tech Challenge - <your name>`.
